@@ -1,0 +1,26 @@
+body{
+    height: 200vh;
+}
+div{
+    height: 125px;
+}
+.A{
+    background-color: red;
+    position: absolute;
+    height: 200px;
+    width: 70%;
+    bottom: 0;
+}
+.B{
+    background-color: yellow;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+#C{
+    background-color: green;
+    position: fixed;
+    top: 100px;
+    height: 150px;
+    width: 99%;
+}
